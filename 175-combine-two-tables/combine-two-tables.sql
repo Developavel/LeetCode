@@ -1,4 +1,3 @@
-/* Write your PL/SQL query statement below */
 SELECT 
     p.firstName,
     p.lastName,
